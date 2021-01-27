@@ -28,7 +28,7 @@ __This text__ is Strong
 > This is a quote
 
 <!-- Links -->
-[Devesh Website](https://www.deveshb15.github.io/Portfolio "Website")
+[Devesh Website](https://deveshb15.github.io/Portfolio/ "Website")
 
 <!-- UL -->
 * Item 1
