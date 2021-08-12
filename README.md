@@ -28,7 +28,9 @@ __This text__ is Strong
 > This is a quote
 
 <!-- Links -->
-[Devesh Website](https://deveshb.co "Website"){target="_blank"}
+[Devesh Website](https://deveshb.co "Website")
+
+<a href="https://deveshb.co" alt="Portfolio" target="_blank">Devesh Website</a>
 
 <!-- UL -->
 * Item 1
